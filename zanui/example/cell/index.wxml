@@ -1,0 +1,89 @@
+<view class="container">
+
+  <view class="doc-title">CELL</view>
+
+  <view class="zan-panel">
+    <view class="zan-cell">
+      <view class="zan-cell__bd">单行列表</view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell">
+      <view class="zan-cell__bd">单行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">单行列表</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">单行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell">
+      <view class="zan-cell__bd">多行列表</view>
+    </view>
+    <view class="zan-cell">
+      <view class="zan-cell__bd">多行列表</view>
+    </view>
+    <view class="zan-cell">
+      <view class="zan-cell__bd">多行列表</view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+    <view class="zan-cell">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+    <view class="zan-cell">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft"></view>
+    </view>
+  </view>
+
+  <view class="zan-panel">
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+    <view class="zan-cell zan-cell--access">
+      <view class="zan-cell__bd">多行列表</view>
+      <view class="zan-cell__ft">详细信息</view>
+    </view>
+  </view>
+
+</view>
